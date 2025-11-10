@@ -26,6 +26,7 @@ IAA AI materials live under `Knowledge_Base_MarkDown/`, each with a Markdown sou
   .\.venv\Scripts\python.exe .\scripts\ask.py "Summarize the AI governance framework"
   ```
 - Launch the optional UI with `streamlit run streamlit_app.py` after setting `OPENAI_API_KEY` and rebuilding the index.
+- A hosted build of the same AI agent is available at https://www.aixintelligence.ca/ for anyone who wants to explore the knowledge base without installing dependencies.
 
 ## Validating the Agent
 - Run the smoke test whenever you change `AI_Agent/scripts/` or the indexing workflow:
