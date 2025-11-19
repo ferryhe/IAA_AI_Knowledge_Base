@@ -6,7 +6,7 @@
 **Al Task Force**
 
 **July 2025**
-![Page 1 Image 1](202507_Testing_of_Artificial_Intelligence_Models_assets/AITF_Testing_AI_Models_ConsultationDraft_p01_img1.jpg)
+![Page 1 Image 1](202507_testing_of_artificial_intelligence_models_assets/202507_testing_of_artificial_intelligence_models_p01_img1.jpg)
 
 ## Page 2
 # IAA Paper 

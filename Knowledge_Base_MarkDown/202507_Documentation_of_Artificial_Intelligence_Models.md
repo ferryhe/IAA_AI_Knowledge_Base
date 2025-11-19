@@ -8,7 +8,7 @@
 **July 2025**
 
 *(Consultation Draft)*
-![Page 1 Image 1](202507_Documentation_of_Artificial_Intelligence_Models_assets/AITF_Documentation_AIModels_ConsultationDraft_p01_img1.jpg)
+![Page 1 Image 1](202507_documentation_of_artificial_intelligence_models_assets/202507_documentation_of_artificial_intelligence_models_p01_img1.jpg)
 
 ## Page 2
 # IAA Paper 
@@ -35,7 +35,7 @@ www.actuaries.org
 
 [^0]
 [^0]:    (c) International Actuarial Association/ Association Actuarial Internationale
-![Page 2 Image 1](202507_Documentation_of_Artificial_Intelligence_Models_assets/AITF_Documentation_AIModels_ConsultationDraft_p02_img1.jpg)
+![Page 2 Image 1](202507_documentation_of_artificial_intelligence_models_assets/202507_documentation_of_artificial_intelligence_models_p02_img1.jpg)
 
 ## Page 3
 # Table of Contents 

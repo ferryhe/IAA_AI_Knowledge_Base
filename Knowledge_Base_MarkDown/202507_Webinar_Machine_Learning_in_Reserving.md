@@ -8,8 +8,8 @@
 Jacky Poon, FIAA, GAICD, #datascienceactuary
 *On behalf of the Machine Learning in Reserving Working Party (IFoA)*
 14 July 2025
-![Page 1 Image 1](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p01_img1.jpg)
-![Page 1 Image 2](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p01_img2.jpg)
+![Page 1 Image 1](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p01_img1.jpg)
+![Page 1 Image 2](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p01_img2.jpg)
 
 ## Page 2
 # Welcome to the Webinar We will begin shortly 
@@ -146,8 +146,8 @@ Mostly in R
 - *Incremental Payments ~ Occurrence Period + Development Period*
 - Occurrence Period and Development Period are one-hot encoded (1-0 flags for occurrence and development period = n, n=1...N)
 - See https://institute-and-faculty-of-actuaries.github.io/mlr-blog/post/foundations/python-glms/
-![Page 14 Image 1](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p14_img1.jpg)
-![Page 14 Image 2](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p14_img2.jpg)
+![Page 14 Image 1](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p14_img1.jpg)
+![Page 14 Image 2](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p14_img2.jpg)
 
 ## Page 15
 # Tabular data format
@@ -191,8 +191,8 @@ Paid  |
 
 - Sequence based models such as GRU, LSTM, Transformers may be relevant
 - Current area of focus
-![Page 17 Image 1](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p17_img1.jpg)
-![Page 17 Image 2](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p17_img2.jpg)
+![Page 17 Image 1](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p17_img1.jpg)
+![Page 17 Image 2](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p17_img2.jpg)
 
 ## Page 18
 # Calibrating and diagnostics
@@ -204,10 +204,10 @@ Paid  |
 
 
 - **Hyperparameters**: Takes individual hyperparameters, shows what happens when you vary them and steps you through how to change them in the code so you can have a go yourself.
-![Page 18 Image 1](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p18_img1.jpg)
-![Page 18 Image 2](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p18_img2.jpg)
-![Page 18 Image 3](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p18_img3.jpg)
-![Page 18 Image 4](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p18_img4.jpg)
+![Page 18 Image 1](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p18_img1.jpg)
+![Page 18 Image 2](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p18_img2.jpg)
+![Page 18 Image 3](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p18_img3.jpg)
+![Page 18 Image 4](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p18_img4.jpg)
 
 ## Page 19
 # Generative AI and NLP
@@ -249,7 +249,7 @@ https://actuariesinstitute.github.io/cookbook/docs/DAA_M07_CS1.html
 |  fair | -1.2  |
 
 Machine Learning in Reserving: Introduction and Recent Developments - 14 July 2025
-![Page 19 Image 1](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p19_img1.jpg)
+![Page 19 Image 1](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p19_img1.jpg)
 
 ## Page 20
 # Generative AI and NLP
@@ -275,8 +275,8 @@ Large language models can also "read" freeform text (such as claim diaries) and 
 |  Happy traveler and TID holder | Have used TID before, never had a problem  |
 |  Travel insurance | I didn't make a claim and therefore can  |
 |  S out of S | This is the first time I have used Budy  |
-![Page 20 Image 1](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p20_img1.jpg)
-![Page 20 Image 2](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p20_img2.jpg)
+![Page 20 Image 1](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p20_img1.jpg)
+![Page 20 Image 2](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p20_img2.jpg)
 
 ## Page 21
 # Applications of Machine Learning Reserving 
@@ -287,7 +287,7 @@ With some example scenarios
 # We use models to solve actual business problems...
 
 Some examples of real-world inspired scenarios where a granular ML model form may be useful
-![Page 22 Image 1](202507_Webinar_Machine_Learning_in_Reserving_assets/20250714_Presentation_for_Webinar_on_MachineLearning_p22_img1.jpg)
+![Page 22 Image 1](202507_webinar_machine_learning_in_reserving_assets/202507_webinar_machine_learning_in_reserving_p22_img1.jpg)
 
 ## Page 23
 # Example: Mix Effects 

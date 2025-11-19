@@ -9,8 +9,8 @@ Ep. 2 of IAA Data Analytics Webinar Series
 Jared Spowart & Zeming Yu
 
 12 May 2025
-![Page 1 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p01_img1.jpg)
-![Page 1 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p01_img2.jpg)
+![Page 1 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p01_img1.jpg)
+![Page 1 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p01_img2.jpg)
 
 ## Page 2
 # Welcome to the Webinar We will begin shortly 
@@ -29,13 +29,13 @@ Any views or opinions expressed in this presentation and in the Q\&A session are
 
 ## Page 4
 Imagine this...
-![Page 4 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p04_img1.jpg)
-![Page 4 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p04_img2.jpg)
+![Page 4 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p04_img1.jpg)
+![Page 4 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p04_img2.jpg)
 
 ## Page 5
 # Meet the Team of Actuarial AI Agents
-![Page 5 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p05_img1.jpg)
-![Page 5 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p05_img2.jpg)
+![Page 5 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p05_img1.jpg)
+![Page 5 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p05_img2.jpg)
 
 ## Page 6
 # Webinar topics 
@@ -67,7 +67,7 @@ Imagine this...
 - AI cognitive ability **rapidly advancing** year-on-year.
 
 *Source: https://www.trackingai.org/home*
-![Page 7 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p07_img1.jpg)
+![Page 7 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p07_img1.jpg)
 
 ## Page 8
 # **Al's Accelerating Capabilityâ€”Doubling Every 7 Months**
@@ -79,8 +79,8 @@ Imagine this...
 - Within this decade, AI agents could independently manage **week- or month-long projects**.
 
 *Source: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/*
-![Page 8 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p08_img1.jpg)
-![Page 8 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p08_img2.jpg)
+![Page 8 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p08_img1.jpg)
+![Page 8 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p08_img2.jpg)
 
 ## Page 9
 # Understanding AI Agents
@@ -88,8 +88,8 @@ Imagine this...
 *You: "Please summarize all feedback from the last pricing review."*
 
 ## Zoe:
-![Page 9 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p09_img1.jpg)
-![Page 9 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p09_img2.jpg)
+![Page 9 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p09_img1.jpg)
+![Page 9 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p09_img2.jpg)
 
 ## Page 10
 # Al agents are NOT...
@@ -130,8 +130,8 @@ The LLM enables the agent to:
 - Decide what action or tool to use next
 
 *Attention Is All You Need 2017*
-![Page 11 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p11_img1.jpg)
-![Page 11 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p11_img2.jpg)
+![Page 11 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p11_img1.jpg)
+![Page 11 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p11_img2.jpg)
 
 ## Page 12
 # Tools - Giving Agents the Power to Act 
@@ -183,8 +183,8 @@ Retrieval | Retrieves underwriting manuals, policy wordings, or pricing model do
 
 ## Page 14
 # **LLM Thought Process - Marvin's Example**
-![Page 14 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p14_img1.jpg)
-![Page 14 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p14_img2.jpg)
+![Page 14 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p14_img1.jpg)
+![Page 14 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p14_img2.jpg)
 
 ## Page 15
 # The Agent's Reasoning Cycle
@@ -262,7 +262,7 @@ feedback to that affect.  |
   - General-purpose AI for research, coding, and automation.
   - Versatile but complex.
   - Available to: Pro users in the US
-![Page 17 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p17_img1.jpg)
+![Page 17 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p17_img1.jpg)
 
 ## Page 18
 # **Manus AI example â€?Repair cost of Electric Vehicles**
@@ -295,9 +295,9 @@ Recent publicly available reports and articles offer a somewhat varied but evolv
 A prevailing theme is that EVs may offer savings in day-to-day upkeep. A June 2024 article from 7Gen, referencing Consumer Reports, highlights that owners of fully electric and plug-in hybrid vehicles tend to pay significantly less for maintenance and repairs compared to their ICE-owning counterparts. This is largely attributed to the simpler mechanical design of EVs, which feature fewer moving parts, eliminating the need for oil changes and reducing wear on components like brake systems, thanks in part to regenerative braking. Ampcontrol's September 2024 EV vs. ICE comparison reinforces this, suggesting lower overall maintenance needs for electric vehicles.
 
 However, when it comes to collision repairs or the replacement of specialized EV components, the picture becomes more complex. Data from Mitchell, a technology provider for the insurance and collision repair industries, cited in a March 2025 InsideEVs article, indicated that the average repair claim for an EV in the U.S. in 2024 was $6,236. While this was a 3% decrease from the previous year and comparable to newer ICE models ($6,127), it remained higher than the average for all ICE vehicles ($5,066). The report suggested this disparity is due to factors like the increased labor hours for managing high-voltage battery systems during repairs and a greater
-![Page 18 Image 1](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p18_img1.jpg)
-![Page 18 Image 2](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p18_img2.jpg)
-![Page 18 Image 3](202505_Webinar_AI_Agents_Actuarial_Enablement_assets/20250512_DAVF_Webinar_AI_Agents-_Actuarial_Enablement_p18_img3.jpg)
+![Page 18 Image 1](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p18_img1.jpg)
+![Page 18 Image 2](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p18_img2.jpg)
+![Page 18 Image 3](202505_webinar_ai_agents_actuarial_enablement_assets/202505_webinar_ai_agents_actuarial_enablement_p18_img3.jpg)
 
 ## Page 19
 # Case study 

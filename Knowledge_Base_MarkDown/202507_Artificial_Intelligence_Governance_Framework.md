@@ -6,7 +6,7 @@
 **AI Task Force**
 
 **July 2025**
-![Page 1 Image 1](202507_Artificial_Intelligence_Governance_Framework_assets/AITF_Governance_Framework_ConsultationDraft_final_p01_img1.jpg)
+![Page 1 Image 1](202507_artificial_intelligence_governance_framework_assets/202507_artificial_intelligence_governance_framework_p01_img1.jpg)
 
 ## Page 2
 # IAA Paper 

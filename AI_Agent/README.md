@@ -139,7 +139,7 @@ Environment variables (stored in `.env`):
 All `.md` files under `SOURCE_DIR`. If you add more documentation, re-run `make index`.
 
 **Q: Can I switch to another LLM?**  
-Yes. Set `MODEL` in `.env` (any Chat Completions compatible model).
+Yes. Set `MODEL` in `AI_Agent/.env` (any Chat Completions compatible model).
 
 **Q: What about non-Markdown assets?**  
 Images live in `*_assets` folders and are not embedded. Add OCR or PDF handling as needed.
