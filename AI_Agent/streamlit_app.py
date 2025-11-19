@@ -14,13 +14,13 @@ from scripts.ask import (
     retrieve,
 )
 
-REPO_URL = "https://github.com/ferryhe/IAA_AI_Knowledge_Base"
+REPO_URL = "https://github.com/ferryhe/AI_Knowledge_Base"
 DOCS_DIR = Path(__file__).resolve().parent.parent / "Knowledge_Base_MarkDown"
 PREVIEW_CHAR_LIMIT = 4000
 
 
-st.set_page_config(page_title="IAA Knowledge Base Q&A", layout="wide")
-st.title("IAA Knowledge Base Q&A")
+st.set_page_config(page_title="AI Knowledge Base Q&A", layout="wide")
+st.title("AI Knowledge Base Q&A")
 
 st.caption("Grounded Q&A over the Markdown corpus published in the public repository.")
 
